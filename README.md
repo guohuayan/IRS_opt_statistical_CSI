@@ -35,13 +35,13 @@ The following are the main code files for the 4 algorihtms shown in the figure.
 
 ## Note
 You may cite us by  
-@ARTICLE{9120336,
-  author={Guo, Huayan and Liang, Ying-Chang and Xiao, Sa},
-  journal={IEEE Wireless Communications Letters}, 
-  title={Intelligent Reflecting Surface Configuration With Historical Channel Observations}, 
-  year={2020},
-  volume={9},
-  number={11},
-  pages={1821-1824},
-  doi={10.1109/LWC.2020.3003348}
+@ARTICLE{9120336, 
+author={Guo, Huayan and Liang, Ying-Chang and Xiao, Sa},  
+journal={IEEE Wireless Communications Letters},  
+title={Intelligent Reflecting Surface Configuration With Historical Channel Observations},   
+year={2020},  
+volume={9},  
+number={11},  
+pages={1821-1824},  
+doi={10.1109/LWC.2020.3003348}  
 }
