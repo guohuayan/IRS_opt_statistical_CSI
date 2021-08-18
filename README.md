@@ -17,8 +17,8 @@ Run the file ``plot_convergence.m''. You may get the following figure
 
 The related code files for proposed algorithms are:
 
-+ ``convergence_minibatch_SGD.m'': mini-batch SGD algorithm
-+ ``convergence_proposed.m'': online learning algorithm
++ ``convergence_minibatch_SGD.m'': mini-batch SGD algorithm to extract the statistical CSI
++ ``convergence_proposed.m'': online learning algorithm to extract the statistical CSI
 
 ### Plot Fig.2
 
@@ -28,7 +28,7 @@ Run the file ``plot_fig_2.m''. You may get the following figure
 
 The following are the main code files for the 4 algorihtms shown in the figure.
 
-+ ``baseline_perfect_CSI.m'': CSI is perfectly known
++ ``baseline_perfect_CSI.m'': Instantaneous CSI is perfectly known
 + ``baseline_random.m'':  RIS adopts random phase
 + ``proposed_minibatch_SGD.m'': Proposed mini-batch SGD algorithm
 + ``proposed_online.m'': Proposed online learning algorithm
